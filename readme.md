@@ -25,11 +25,13 @@
 
 s
 
-## 🏆 Achievements  
+<!-- Achievements badges (single line) -->
+[![Red Bull Hackathon - Finalist](https://img.shields.io/badge/Red%20Bull%20Hackathon-Finalist-ff4500?style=flat-square)](LINK_HERE)
+[![CSI SRMIST - Core Member](https://img.shields.io/badge/CSI%20SRMIST-Core%20Member-1e90ff?style=flat-square)](LINK_HERE)
+[![Ultron 6.0 - 2nd Place](https://img.shields.io/badge/Ultron%206.0-2nd%20Place-8a2be2?style=flat-square)](LINK_HERE)
+[![Oracle Certified - 2024](https://img.shields.io/badge/Oracle-Certified%20(2024)-f05032?style=flat-square&logo=oracle&logoColor=white)](LINK_HERE)
+[![Scaler - Computer Networking (2024)](https://img.shields.io/badge/Scaler-Computer%20Networking%20(2024)-00aaff?style=flat-square)](LINK_HERE)
 
-🏅 **Red Bull Hackathon 2024** — Final Stage after winning Ideathon round  
-💡 **CSI SRMIST Core Member** — Contributed to technical events & mentorship  
-🎬 **Ultron 6.0 Short Film Competition (2023)** — 2nd place among 50+ entries  
 
 
 ## 📊 GitHub Stats  
