@@ -23,42 +23,7 @@
 
 ---
 
-## 💼 Experience  
-
-### 🧠 **Frontend & API Integration Intern** – Chatblizz Software Pvt. Ltd. *(Apr–Jun 2025)*  
-- Enhanced UI/UX, improving creator onboarding by **20%**.  
-- Integrated **Instagram API** automating **1,000+ weekly interactions**.  
-- Optimized automation flows reducing setup time by **30%**.  
-🔗 [chatblizz.com](https://chatblizz.com)
-
-### 💻 **Web Developer Intern** – InnoByte Services *(Jul–Aug 2024)*  
-- Built responsive, cross-platform web apps using HTML, CSS, JS.  
-- Collaborated on backend integration and improved performance by **15%**.  
-
----
-
-## 🧪 Research  
-
-### **YOLOv8-Powered Driver Monitoring (ICICT 2025)**  
-- Proposed a **real-time distraction detection system** using YOLOv8.  
-- Designed scalable deep learning architecture for safety-critical applications.  
-🔗 [Read Paper](https://ieeexplore.ieee.org/document/11005355)
-
----
-
-## 🚀 Projects  
-
-### 🎥 [AI Short Video Generator](https://github.com/TShridhar28/AI-Content-Generator)  
-*Next.js, React, Tailwind, Convex, Inngest, Gemini*  
-- Built an AI SaaS app to generate short videos from text prompts for **50+ users**.  
-- Reduced video generation time by **40%** using async event architecture.  
-
-### ❤️ [Heart Disease Prediction](https://github.com/TShridhar28/Heart-Disease-Prediction)  
-*Python, Scikit-learn, Pandas, Matplotlib*  
-- ML models (Logistic Regression, KNN, Random Forest) with **85% accuracy**.  
-- Improved healthcare predictions via feature visualization and ROC-AUC analysis.  
-
----
+s
 
 ## 🏆 Achievements  
 
@@ -66,14 +31,6 @@
 💡 **CSI SRMIST Core Member** — Contributed to technical events & mentorship  
 🎬 **Ultron 6.0 Short Film Competition (2023)** — 2nd place among 50+ entries  
 
----
-
-## 📜 Certifications  
-
-✅ Oracle Certified Foundation Associate (2024)  
-✅ Computer Networking Course — Scaler (2024)  
-
----
 
 ## 📊 GitHub Stats  
 
