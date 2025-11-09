@@ -25,7 +25,7 @@
 
 s
 
-<!-- Achievements badges (single line) -->
+## 🏆 Achievements  
 [![Red Bull Hackathon - Finalist](https://img.shields.io/badge/Red%20Bull%20Hackathon-Finalist-ff4500?style=flat-square)](LINK_HERE)
 [![CSI SRMIST - Core Member](https://img.shields.io/badge/CSI%20SRMIST-Core%20Member-1e90ff?style=flat-square)](LINK_HERE)
 [![Ultron 6.0 - 2nd Place](https://img.shields.io/badge/Ultron%206.0-2nd%20Place-8a2be2?style=flat-square)](LINK_HERE)
